@@ -1,0 +1,11 @@
+torch==1.5.0
+torchvision==0.5.0
+pandas==0.24.2
+jupyter-client==5.3.5
+jupyter-core==4.6.3
+jupyterlab==0.33.12
+jupyterlab-launcher==0.11.2
+Keras==2.4.3
+keras-Applications==1.0.8
+Keras-Preprocessing==1.1.2
+
